@@ -17,7 +17,7 @@ export default function LucesCasas() {
       <Card style={styles.card}>
         <View style={styles.cardContent}>
           <Icon source="lightbulb-on-outline" color={MD3Colors.primary70} size={30} />
-          <Text style={styles.title}>Luces de la Casa</Text>
+          <Text style={styles.title}>Luces de la Casa.</Text>
         </View>
 
         {/* Recámara */}
